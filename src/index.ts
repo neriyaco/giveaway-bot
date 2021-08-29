@@ -4,18 +4,8 @@ import Database from "./db";
 import client from './client';
 import express from 'express';
 
-// const guildID = "608739233456193562";
-// const guild = new Discord.Guild(client, { id: guildID, unavailable: false });
-// const textBotChannelID = "608739233456193564";
-// const textBotChannel = new Discord.TextChannel(guild, { id: textBotChannelID, type: 0 });
-
-const delay = (ms: number) => new Promise((res) => { setTimeout(res, ms) });
-
 client.on("ready", async () => {
     console.log(`[BOT] Logged in as ${client.user.tag}`);
-    // const msg = await textBotChannel.send("Giveaway bot is online");
-    // await delay(5000);
-    // await msg.delete();
 });
 
 const messageEmbed = new Discord.MessageEmbed({ color: 0x20c200, title: "Level Up" });
