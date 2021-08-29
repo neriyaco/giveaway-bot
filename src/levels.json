@@ -1,0 +1,1990 @@
+[
+    {
+        "min": 0,
+        "newRoles": []
+    },
+    {
+        "min": 63,
+        "newRoles": []
+    },
+    {
+        "min": 132,
+        "newRoles": []
+    },
+    {
+        "min": 252,
+        "newRoles": []
+    },
+    {
+        "min": 343,
+        "newRoles": []
+    },
+    {
+        "min": 448,
+        "newRoles": []
+    },
+    {
+        "min": 567,
+        "newRoles": []
+    },
+    {
+        "min": 700,
+        "newRoles": []
+    },
+    {
+        "min": 847,
+        "newRoles": []
+    },
+    {
+        "min": 1008,
+        "newRoles": []
+    },
+    {
+        "min": 1183,
+        "newRoles": []
+    },
+    {
+        "min": 1372,
+        "newRoles": []
+    },
+    {
+        "min": 1575,
+        "newRoles": []
+    },
+    {
+        "min": 1792,
+        "newRoles": []
+    },
+    {
+        "min": 2023,
+        "newRoles": []
+    },
+    {
+        "min": 2268,
+        "newRoles": []
+    },
+    {
+        "min": 2527,
+        "newRoles": []
+    },
+    {
+        "min": 2800,
+        "newRoles": []
+    },
+    {
+        "min": 3087,
+        "newRoles": []
+    },
+    {
+        "min": 3388,
+        "newRoles": []
+    },
+    {
+        "min": 3703,
+        "newRoles": []
+    },
+    {
+        "min": 4032,
+        "newRoles": []
+    },
+    {
+        "min": 4375,
+        "newRoles": []
+    },
+    {
+        "min": 4732,
+        "newRoles": []
+    },
+    {
+        "min": 5103,
+        "newRoles": []
+    },
+    {
+        "min": 5488,
+        "newRoles": []
+    },
+    {
+        "min": 5887,
+        "newRoles": []
+    },
+    {
+        "min": 6300,
+        "newRoles": []
+    },
+    {
+        "min": 6727,
+        "newRoles": []
+    },
+    {
+        "min": 7168,
+        "newRoles": []
+    },
+    {
+        "min": 7623,
+        "newRoles": []
+    },
+    {
+        "min": 8092,
+        "newRoles": []
+    },
+    {
+        "min": 8575,
+        "newRoles": []
+    },
+    {
+        "min": 9072,
+        "newRoles": []
+    },
+    {
+        "min": 9583,
+        "newRoles": []
+    },
+    {
+        "min": 10108,
+        "newRoles": []
+    },
+    {
+        "min": 10647,
+        "newRoles": []
+    },
+    {
+        "min": 11200,
+        "newRoles": []
+    },
+    {
+        "min": 11767,
+        "newRoles": []
+    },
+    {
+        "min": 12348,
+        "newRoles": []
+    },
+    {
+        "min": 12943,
+        "newRoles": []
+    },
+    {
+        "min": 13552,
+        "newRoles": []
+    },
+    {
+        "min": 14175,
+        "newRoles": []
+    },
+    {
+        "min": 14812,
+        "newRoles": []
+    },
+    {
+        "min": 15463,
+        "newRoles": []
+    },
+    {
+        "min": 16128,
+        "newRoles": []
+    },
+    {
+        "min": 16807,
+        "newRoles": []
+    },
+    {
+        "min": 17500,
+        "newRoles": []
+    },
+    {
+        "min": 18207,
+        "newRoles": []
+    },
+    {
+        "min": 18928,
+        "newRoles": []
+    },
+    {
+        "min": 19663,
+        "newRoles": []
+    },
+    {
+        "min": 20412,
+        "newRoles": []
+    },
+    {
+        "min": 21175,
+        "newRoles": []
+    },
+    {
+        "min": 21952,
+        "newRoles": []
+    },
+    {
+        "min": 22743,
+        "newRoles": []
+    },
+    {
+        "min": 23548,
+        "newRoles": []
+    },
+    {
+        "min": 24367,
+        "newRoles": []
+    },
+    {
+        "min": 25200,
+        "newRoles": []
+    },
+    {
+        "min": 26047,
+        "newRoles": []
+    },
+    {
+        "min": 26908,
+        "newRoles": []
+    },
+    {
+        "min": 27783,
+        "newRoles": []
+    },
+    {
+        "min": 28672,
+        "newRoles": []
+    },
+    {
+        "min": 29575,
+        "newRoles": []
+    },
+    {
+        "min": 30492,
+        "newRoles": []
+    },
+    {
+        "min": 31423,
+        "newRoles": []
+    },
+    {
+        "min": 32368,
+        "newRoles": []
+    },
+    {
+        "min": 33327,
+        "newRoles": []
+    },
+    {
+        "min": 34300,
+        "newRoles": []
+    },
+    {
+        "min": 35287,
+        "newRoles": []
+    },
+    {
+        "min": 36288,
+        "newRoles": []
+    },
+    {
+        "min": 37303,
+        "newRoles": []
+    },
+    {
+        "min": 38332,
+        "newRoles": []
+    },
+    {
+        "min": 39375,
+        "newRoles": []
+    },
+    {
+        "min": 40432,
+        "newRoles": []
+    },
+    {
+        "min": 41503,
+        "newRoles": []
+    },
+    {
+        "min": 42588,
+        "newRoles": []
+    },
+    {
+        "min": 43687,
+        "newRoles": []
+    },
+    {
+        "min": 44800,
+        "newRoles": []
+    },
+    {
+        "min": 45927,
+        "newRoles": []
+    },
+    {
+        "min": 47068,
+        "newRoles": []
+    },
+    {
+        "min": 48223,
+        "newRoles": []
+    },
+    {
+        "min": 49392,
+        "newRoles": []
+    },
+    {
+        "min": 50575,
+        "newRoles": []
+    },
+    {
+        "min": 51772,
+        "newRoles": []
+    },
+    {
+        "min": 52983,
+        "newRoles": []
+    },
+    {
+        "min": 54208,
+        "newRoles": []
+    },
+    {
+        "min": 55447,
+        "newRoles": []
+    },
+    {
+        "min": 56700,
+        "newRoles": []
+    },
+    {
+        "min": 57967,
+        "newRoles": []
+    },
+    {
+        "min": 59248,
+        "newRoles": []
+    },
+    {
+        "min": 60543,
+        "newRoles": []
+    },
+    {
+        "min": 61852,
+        "newRoles": []
+    },
+    {
+        "min": 63175,
+        "newRoles": []
+    },
+    {
+        "min": 64512,
+        "newRoles": []
+    },
+    {
+        "min": 65863,
+        "newRoles": []
+    },
+    {
+        "min": 67228,
+        "newRoles": []
+    },
+    {
+        "min": 68607,
+        "newRoles": []
+    },
+    {
+        "min": 70000,
+        "newRoles": []
+    },
+    {
+        "min": 71407,
+        "newRoles": []
+    },
+    {
+        "min": 72828,
+        "newRoles": []
+    },
+    {
+        "min": 74263,
+        "newRoles": []
+    },
+    {
+        "min": 75712,
+        "newRoles": []
+    },
+    {
+        "min": 77175,
+        "newRoles": []
+    },
+    {
+        "min": 78652,
+        "newRoles": []
+    },
+    {
+        "min": 80143,
+        "newRoles": []
+    },
+    {
+        "min": 81648,
+        "newRoles": []
+    },
+    {
+        "min": 83167,
+        "newRoles": []
+    },
+    {
+        "min": 84700,
+        "newRoles": []
+    },
+    {
+        "min": 86247,
+        "newRoles": []
+    },
+    {
+        "min": 87808,
+        "newRoles": []
+    },
+    {
+        "min": 89383,
+        "newRoles": []
+    },
+    {
+        "min": 90972,
+        "newRoles": []
+    },
+    {
+        "min": 92575,
+        "newRoles": []
+    },
+    {
+        "min": 94192,
+        "newRoles": []
+    },
+    {
+        "min": 95823,
+        "newRoles": []
+    },
+    {
+        "min": 97468,
+        "newRoles": []
+    },
+    {
+        "min": 99127,
+        "newRoles": []
+    },
+    {
+        "min": 100800,
+        "newRoles": []
+    },
+    {
+        "min": 102487,
+        "newRoles": []
+    },
+    {
+        "min": 104188,
+        "newRoles": []
+    },
+    {
+        "min": 105903,
+        "newRoles": []
+    },
+    {
+        "min": 107632,
+        "newRoles": []
+    },
+    {
+        "min": 109375,
+        "newRoles": []
+    },
+    {
+        "min": 111132,
+        "newRoles": []
+    },
+    {
+        "min": 112903,
+        "newRoles": []
+    },
+    {
+        "min": 114688,
+        "newRoles": []
+    },
+    {
+        "min": 116487,
+        "newRoles": []
+    },
+    {
+        "min": 118300,
+        "newRoles": []
+    },
+    {
+        "min": 120127,
+        "newRoles": []
+    },
+    {
+        "min": 121968,
+        "newRoles": []
+    },
+    {
+        "min": 123823,
+        "newRoles": []
+    },
+    {
+        "min": 125692,
+        "newRoles": []
+    },
+    {
+        "min": 127575,
+        "newRoles": []
+    },
+    {
+        "min": 129472,
+        "newRoles": []
+    },
+    {
+        "min": 131383,
+        "newRoles": []
+    },
+    {
+        "min": 133308,
+        "newRoles": []
+    },
+    {
+        "min": 135247,
+        "newRoles": []
+    },
+    {
+        "min": 137200,
+        "newRoles": []
+    },
+    {
+        "min": 139167,
+        "newRoles": []
+    },
+    {
+        "min": 141148,
+        "newRoles": []
+    },
+    {
+        "min": 143143,
+        "newRoles": []
+    },
+    {
+        "min": 145152,
+        "newRoles": []
+    },
+    {
+        "min": 147175,
+        "newRoles": []
+    },
+    {
+        "min": 149212,
+        "newRoles": []
+    },
+    {
+        "min": 151263,
+        "newRoles": []
+    },
+    {
+        "min": 153328,
+        "newRoles": []
+    },
+    {
+        "min": 155407,
+        "newRoles": []
+    },
+    {
+        "min": 157500,
+        "newRoles": []
+    },
+    {
+        "min": 159607,
+        "newRoles": []
+    },
+    {
+        "min": 161728,
+        "newRoles": []
+    },
+    {
+        "min": 163863,
+        "newRoles": []
+    },
+    {
+        "min": 166012,
+        "newRoles": []
+    },
+    {
+        "min": 168175,
+        "newRoles": []
+    },
+    {
+        "min": 170352,
+        "newRoles": []
+    },
+    {
+        "min": 172543,
+        "newRoles": []
+    },
+    {
+        "min": 174748,
+        "newRoles": []
+    },
+    {
+        "min": 176967,
+        "newRoles": []
+    },
+    {
+        "min": 179200,
+        "newRoles": []
+    },
+    {
+        "min": 181447,
+        "newRoles": []
+    },
+    {
+        "min": 183708,
+        "newRoles": []
+    },
+    {
+        "min": 185983,
+        "newRoles": []
+    },
+    {
+        "min": 188272,
+        "newRoles": []
+    },
+    {
+        "min": 190575,
+        "newRoles": []
+    },
+    {
+        "min": 192892,
+        "newRoles": []
+    },
+    {
+        "min": 195223,
+        "newRoles": []
+    },
+    {
+        "min": 197568,
+        "newRoles": []
+    },
+    {
+        "min": 199927,
+        "newRoles": []
+    },
+    {
+        "min": 202300,
+        "newRoles": []
+    },
+    {
+        "min": 204687,
+        "newRoles": []
+    },
+    {
+        "min": 207088,
+        "newRoles": []
+    },
+    {
+        "min": 209503,
+        "newRoles": []
+    },
+    {
+        "min": 211932,
+        "newRoles": []
+    },
+    {
+        "min": 214375,
+        "newRoles": []
+    },
+    {
+        "min": 216832,
+        "newRoles": []
+    },
+    {
+        "min": 219303,
+        "newRoles": []
+    },
+    {
+        "min": 221788,
+        "newRoles": []
+    },
+    {
+        "min": 224287,
+        "newRoles": []
+    },
+    {
+        "min": 226800,
+        "newRoles": []
+    },
+    {
+        "min": 229327,
+        "newRoles": []
+    },
+    {
+        "min": 231868,
+        "newRoles": []
+    },
+    {
+        "min": 234423,
+        "newRoles": []
+    },
+    {
+        "min": 236992,
+        "newRoles": []
+    },
+    {
+        "min": 239575,
+        "newRoles": []
+    },
+    {
+        "min": 242172,
+        "newRoles": []
+    },
+    {
+        "min": 244783,
+        "newRoles": []
+    },
+    {
+        "min": 247408,
+        "newRoles": []
+    },
+    {
+        "min": 250047,
+        "newRoles": []
+    },
+    {
+        "min": 252700,
+        "newRoles": []
+    },
+    {
+        "min": 255367,
+        "newRoles": []
+    },
+    {
+        "min": 258048,
+        "newRoles": []
+    },
+    {
+        "min": 260743,
+        "newRoles": []
+    },
+    {
+        "min": 263452,
+        "newRoles": []
+    },
+    {
+        "min": 266175,
+        "newRoles": []
+    },
+    {
+        "min": 268912,
+        "newRoles": []
+    },
+    {
+        "min": 271663,
+        "newRoles": []
+    },
+    {
+        "min": 274428,
+        "newRoles": []
+    },
+    {
+        "min": 277207,
+        "newRoles": []
+    },
+    {
+        "min": 280000,
+        "newRoles": []
+    },
+    {
+        "min": 282807,
+        "newRoles": []
+    },
+    {
+        "min": 285628,
+        "newRoles": []
+    },
+    {
+        "min": 288463,
+        "newRoles": []
+    },
+    {
+        "min": 291312,
+        "newRoles": []
+    },
+    {
+        "min": 294175,
+        "newRoles": []
+    },
+    {
+        "min": 297052,
+        "newRoles": []
+    },
+    {
+        "min": 299943,
+        "newRoles": []
+    },
+    {
+        "min": 302848,
+        "newRoles": []
+    },
+    {
+        "min": 305767,
+        "newRoles": []
+    },
+    {
+        "min": 308700,
+        "newRoles": []
+    },
+    {
+        "min": 311647,
+        "newRoles": []
+    },
+    {
+        "min": 314608,
+        "newRoles": []
+    },
+    {
+        "min": 317583,
+        "newRoles": []
+    },
+    {
+        "min": 320572,
+        "newRoles": []
+    },
+    {
+        "min": 323575,
+        "newRoles": []
+    },
+    {
+        "min": 326592,
+        "newRoles": []
+    },
+    {
+        "min": 329623,
+        "newRoles": []
+    },
+    {
+        "min": 332668,
+        "newRoles": []
+    },
+    {
+        "min": 335727,
+        "newRoles": []
+    },
+    {
+        "min": 338800,
+        "newRoles": []
+    },
+    {
+        "min": 341887,
+        "newRoles": []
+    },
+    {
+        "min": 344988,
+        "newRoles": []
+    },
+    {
+        "min": 348103,
+        "newRoles": []
+    },
+    {
+        "min": 351232,
+        "newRoles": []
+    },
+    {
+        "min": 354375,
+        "newRoles": []
+    },
+    {
+        "min": 357532,
+        "newRoles": []
+    },
+    {
+        "min": 360703,
+        "newRoles": []
+    },
+    {
+        "min": 363888,
+        "newRoles": []
+    },
+    {
+        "min": 367087,
+        "newRoles": []
+    },
+    {
+        "min": 370300,
+        "newRoles": []
+    },
+    {
+        "min": 373527,
+        "newRoles": []
+    },
+    {
+        "min": 376768,
+        "newRoles": []
+    },
+    {
+        "min": 380023,
+        "newRoles": []
+    },
+    {
+        "min": 383292,
+        "newRoles": []
+    },
+    {
+        "min": 386575,
+        "newRoles": []
+    },
+    {
+        "min": 389872,
+        "newRoles": []
+    },
+    {
+        "min": 393183,
+        "newRoles": []
+    },
+    {
+        "min": 396508,
+        "newRoles": []
+    },
+    {
+        "min": 399847,
+        "newRoles": []
+    },
+    {
+        "min": 403200,
+        "newRoles": []
+    },
+    {
+        "min": 406567,
+        "newRoles": []
+    },
+    {
+        "min": 409948,
+        "newRoles": []
+    },
+    {
+        "min": 413343,
+        "newRoles": []
+    },
+    {
+        "min": 416752,
+        "newRoles": []
+    },
+    {
+        "min": 420175,
+        "newRoles": []
+    },
+    {
+        "min": 423612,
+        "newRoles": []
+    },
+    {
+        "min": 427063,
+        "newRoles": []
+    },
+    {
+        "min": 430528,
+        "newRoles": []
+    },
+    {
+        "min": 434007,
+        "newRoles": []
+    },
+    {
+        "min": 437500,
+        "newRoles": []
+    },
+    {
+        "min": 441007,
+        "newRoles": []
+    },
+    {
+        "min": 444528,
+        "newRoles": []
+    },
+    {
+        "min": 448063,
+        "newRoles": []
+    },
+    {
+        "min": 451612,
+        "newRoles": []
+    },
+    {
+        "min": 455175,
+        "newRoles": []
+    },
+    {
+        "min": 458752,
+        "newRoles": []
+    },
+    {
+        "min": 462343,
+        "newRoles": []
+    },
+    {
+        "min": 465948,
+        "newRoles": []
+    },
+    {
+        "min": 469567,
+        "newRoles": []
+    },
+    {
+        "min": 473200,
+        "newRoles": []
+    },
+    {
+        "min": 476847,
+        "newRoles": []
+    },
+    {
+        "min": 480508,
+        "newRoles": []
+    },
+    {
+        "min": 484183,
+        "newRoles": []
+    },
+    {
+        "min": 487872,
+        "newRoles": []
+    },
+    {
+        "min": 491575,
+        "newRoles": []
+    },
+    {
+        "min": 495292,
+        "newRoles": []
+    },
+    {
+        "min": 499023,
+        "newRoles": []
+    },
+    {
+        "min": 502768,
+        "newRoles": []
+    },
+    {
+        "min": 506527,
+        "newRoles": []
+    },
+    {
+        "min": 510300,
+        "newRoles": []
+    },
+    {
+        "min": 514087,
+        "newRoles": []
+    },
+    {
+        "min": 517888,
+        "newRoles": []
+    },
+    {
+        "min": 521703,
+        "newRoles": []
+    },
+    {
+        "min": 525532,
+        "newRoles": []
+    },
+    {
+        "min": 529375,
+        "newRoles": []
+    },
+    {
+        "min": 533232,
+        "newRoles": []
+    },
+    {
+        "min": 537103,
+        "newRoles": []
+    },
+    {
+        "min": 540988,
+        "newRoles": []
+    },
+    {
+        "min": 544887,
+        "newRoles": []
+    },
+    {
+        "min": 548800,
+        "newRoles": []
+    },
+    {
+        "min": 552727,
+        "newRoles": []
+    },
+    {
+        "min": 556668,
+        "newRoles": []
+    },
+    {
+        "min": 560623,
+        "newRoles": []
+    },
+    {
+        "min": 564592,
+        "newRoles": []
+    },
+    {
+        "min": 568575,
+        "newRoles": []
+    },
+    {
+        "min": 572572,
+        "newRoles": []
+    },
+    {
+        "min": 576583,
+        "newRoles": []
+    },
+    {
+        "min": 580608,
+        "newRoles": []
+    },
+    {
+        "min": 584647,
+        "newRoles": []
+    },
+    {
+        "min": 588700,
+        "newRoles": []
+    },
+    {
+        "min": 592767,
+        "newRoles": []
+    },
+    {
+        "min": 596848,
+        "newRoles": []
+    },
+    {
+        "min": 600943,
+        "newRoles": []
+    },
+    {
+        "min": 605052,
+        "newRoles": []
+    },
+    {
+        "min": 609175,
+        "newRoles": []
+    },
+    {
+        "min": 613312,
+        "newRoles": []
+    },
+    {
+        "min": 617463,
+        "newRoles": []
+    },
+    {
+        "min": 621628,
+        "newRoles": []
+    },
+    {
+        "min": 625807,
+        "newRoles": []
+    },
+    {
+        "min": 630000,
+        "newRoles": []
+    },
+    {
+        "min": 634207,
+        "newRoles": []
+    },
+    {
+        "min": 638428,
+        "newRoles": []
+    },
+    {
+        "min": 642663,
+        "newRoles": []
+    },
+    {
+        "min": 646912,
+        "newRoles": []
+    },
+    {
+        "min": 651175,
+        "newRoles": []
+    },
+    {
+        "min": 655452,
+        "newRoles": []
+    },
+    {
+        "min": 659743,
+        "newRoles": []
+    },
+    {
+        "min": 664048,
+        "newRoles": []
+    },
+    {
+        "min": 668367,
+        "newRoles": []
+    },
+    {
+        "min": 672700,
+        "newRoles": []
+    },
+    {
+        "min": 677047,
+        "newRoles": []
+    },
+    {
+        "min": 681408,
+        "newRoles": []
+    },
+    {
+        "min": 685783,
+        "newRoles": []
+    },
+    {
+        "min": 690172,
+        "newRoles": []
+    },
+    {
+        "min": 694575,
+        "newRoles": []
+    },
+    {
+        "min": 698992,
+        "newRoles": []
+    },
+    {
+        "min": 703423,
+        "newRoles": []
+    },
+    {
+        "min": 707868,
+        "newRoles": []
+    },
+    {
+        "min": 712327,
+        "newRoles": []
+    },
+    {
+        "min": 716800,
+        "newRoles": []
+    },
+    {
+        "min": 721287,
+        "newRoles": []
+    },
+    {
+        "min": 725788,
+        "newRoles": []
+    },
+    {
+        "min": 730303,
+        "newRoles": []
+    },
+    {
+        "min": 734832,
+        "newRoles": []
+    },
+    {
+        "min": 739375,
+        "newRoles": []
+    },
+    {
+        "min": 743932,
+        "newRoles": []
+    },
+    {
+        "min": 748503,
+        "newRoles": []
+    },
+    {
+        "min": 753088,
+        "newRoles": []
+    },
+    {
+        "min": 757687,
+        "newRoles": []
+    },
+    {
+        "min": 762300,
+        "newRoles": []
+    },
+    {
+        "min": 766927,
+        "newRoles": []
+    },
+    {
+        "min": 771568,
+        "newRoles": []
+    },
+    {
+        "min": 776223,
+        "newRoles": []
+    },
+    {
+        "min": 780892,
+        "newRoles": []
+    },
+    {
+        "min": 785575,
+        "newRoles": []
+    },
+    {
+        "min": 790272,
+        "newRoles": []
+    },
+    {
+        "min": 794983,
+        "newRoles": []
+    },
+    {
+        "min": 799708,
+        "newRoles": []
+    },
+    {
+        "min": 804447,
+        "newRoles": []
+    },
+    {
+        "min": 809200,
+        "newRoles": []
+    },
+    {
+        "min": 813967,
+        "newRoles": []
+    },
+    {
+        "min": 818748,
+        "newRoles": []
+    },
+    {
+        "min": 823543,
+        "newRoles": []
+    },
+    {
+        "min": 828352,
+        "newRoles": []
+    },
+    {
+        "min": 833175,
+        "newRoles": []
+    },
+    {
+        "min": 838012,
+        "newRoles": []
+    },
+    {
+        "min": 842863,
+        "newRoles": []
+    },
+    {
+        "min": 847728,
+        "newRoles": []
+    },
+    {
+        "min": 852607,
+        "newRoles": []
+    },
+    {
+        "min": 857500,
+        "newRoles": []
+    },
+    {
+        "min": 862407,
+        "newRoles": []
+    },
+    {
+        "min": 867328,
+        "newRoles": []
+    },
+    {
+        "min": 872263,
+        "newRoles": []
+    },
+    {
+        "min": 877212,
+        "newRoles": []
+    },
+    {
+        "min": 882175,
+        "newRoles": []
+    },
+    {
+        "min": 887152,
+        "newRoles": []
+    },
+    {
+        "min": 892143,
+        "newRoles": []
+    },
+    {
+        "min": 897148,
+        "newRoles": []
+    },
+    {
+        "min": 902167,
+        "newRoles": []
+    },
+    {
+        "min": 907200,
+        "newRoles": []
+    },
+    {
+        "min": 912247,
+        "newRoles": []
+    },
+    {
+        "min": 917308,
+        "newRoles": []
+    },
+    {
+        "min": 922383,
+        "newRoles": []
+    },
+    {
+        "min": 927472,
+        "newRoles": []
+    },
+    {
+        "min": 932575,
+        "newRoles": []
+    },
+    {
+        "min": 937692,
+        "newRoles": []
+    },
+    {
+        "min": 942823,
+        "newRoles": []
+    },
+    {
+        "min": 947968,
+        "newRoles": []
+    },
+    {
+        "min": 953127,
+        "newRoles": []
+    },
+    {
+        "min": 958300,
+        "newRoles": []
+    },
+    {
+        "min": 963487,
+        "newRoles": []
+    },
+    {
+        "min": 968688,
+        "newRoles": []
+    },
+    {
+        "min": 973903,
+        "newRoles": []
+    },
+    {
+        "min": 979132,
+        "newRoles": []
+    },
+    {
+        "min": 984375,
+        "newRoles": []
+    },
+    {
+        "min": 989632,
+        "newRoles": []
+    },
+    {
+        "min": 994903,
+        "newRoles": []
+    },
+    {
+        "min": 1000188,
+        "newRoles": []
+    },
+    {
+        "min": 1005487,
+        "newRoles": []
+    },
+    {
+        "min": 1010800,
+        "newRoles": []
+    },
+    {
+        "min": 1016127,
+        "newRoles": []
+    },
+    {
+        "min": 1021468,
+        "newRoles": []
+    },
+    {
+        "min": 1026823,
+        "newRoles": []
+    },
+    {
+        "min": 1032192,
+        "newRoles": []
+    },
+    {
+        "min": 1037575,
+        "newRoles": []
+    },
+    {
+        "min": 1042972,
+        "newRoles": []
+    },
+    {
+        "min": 1048383,
+        "newRoles": []
+    },
+    {
+        "min": 1053808,
+        "newRoles": []
+    },
+    {
+        "min": 1059247,
+        "newRoles": []
+    },
+    {
+        "min": 1064700,
+        "newRoles": []
+    },
+    {
+        "min": 1070167,
+        "newRoles": []
+    },
+    {
+        "min": 1075648,
+        "newRoles": []
+    },
+    {
+        "min": 1081143,
+        "newRoles": []
+    },
+    {
+        "min": 1086652,
+        "newRoles": []
+    },
+    {
+        "min": 1092175,
+        "newRoles": []
+    },
+    {
+        "min": 1097712,
+        "newRoles": []
+    },
+    {
+        "min": 1103263,
+        "newRoles": []
+    },
+    {
+        "min": 1108828,
+        "newRoles": []
+    },
+    {
+        "min": 1114407,
+        "newRoles": []
+    },
+    {
+        "min": 1120000,
+        "newRoles": []
+    },
+    {
+        "min": 1125607,
+        "newRoles": []
+    },
+    {
+        "min": 1131228,
+        "newRoles": []
+    },
+    {
+        "min": 1136863,
+        "newRoles": []
+    },
+    {
+        "min": 1142512,
+        "newRoles": []
+    },
+    {
+        "min": 1148175,
+        "newRoles": []
+    },
+    {
+        "min": 1153852,
+        "newRoles": []
+    },
+    {
+        "min": 1159543,
+        "newRoles": []
+    },
+    {
+        "min": 1165248,
+        "newRoles": []
+    },
+    {
+        "min": 1170967,
+        "newRoles": []
+    },
+    {
+        "min": 1176700,
+        "newRoles": []
+    },
+    {
+        "min": 1182447,
+        "newRoles": []
+    },
+    {
+        "min": 1188208,
+        "newRoles": []
+    },
+    {
+        "min": 1193983,
+        "newRoles": []
+    },
+    {
+        "min": 1199772,
+        "newRoles": []
+    },
+    {
+        "min": 1205575,
+        "newRoles": []
+    },
+    {
+        "min": 1211392,
+        "newRoles": []
+    },
+    {
+        "min": 1217223,
+        "newRoles": []
+    },
+    {
+        "min": 1223068,
+        "newRoles": []
+    },
+    {
+        "min": 1228927,
+        "newRoles": []
+    },
+    {
+        "min": 1234800,
+        "newRoles": []
+    },
+    {
+        "min": 1240687,
+        "newRoles": []
+    },
+    {
+        "min": 1246588,
+        "newRoles": []
+    },
+    {
+        "min": 1252503,
+        "newRoles": []
+    },
+    {
+        "min": 1258432,
+        "newRoles": []
+    },
+    {
+        "min": 1264375,
+        "newRoles": []
+    },
+    {
+        "min": 1270332,
+        "newRoles": []
+    },
+    {
+        "min": 1276303,
+        "newRoles": []
+    },
+    {
+        "min": 1282288,
+        "newRoles": []
+    },
+    {
+        "min": 1288287,
+        "newRoles": []
+    },
+    {
+        "min": 1294300,
+        "newRoles": []
+    },
+    {
+        "min": 1300327,
+        "newRoles": []
+    },
+    {
+        "min": 1306368,
+        "newRoles": []
+    },
+    {
+        "min": 1312423,
+        "newRoles": []
+    },
+    {
+        "min": 1318492,
+        "newRoles": []
+    },
+    {
+        "min": 1324575,
+        "newRoles": []
+    },
+    {
+        "min": 1330672,
+        "newRoles": []
+    },
+    {
+        "min": 1336783,
+        "newRoles": []
+    },
+    {
+        "min": 1342908,
+        "newRoles": []
+    },
+    {
+        "min": 1349047,
+        "newRoles": []
+    },
+    {
+        "min": 1355200,
+        "newRoles": []
+    },
+    {
+        "min": 1361367,
+        "newRoles": []
+    },
+    {
+        "min": 1367548,
+        "newRoles": []
+    },
+    {
+        "min": 1373743,
+        "newRoles": []
+    },
+    {
+        "min": 1379952,
+        "newRoles": []
+    },
+    {
+        "min": 1386175,
+        "newRoles": []
+    },
+    {
+        "min": 1392412,
+        "newRoles": []
+    },
+    {
+        "min": 1398663,
+        "newRoles": []
+    },
+    {
+        "min": 1404928,
+        "newRoles": []
+    },
+    {
+        "min": 1411207,
+        "newRoles": []
+    },
+    {
+        "min": 1417500,
+        "newRoles": []
+    },
+    {
+        "min": 1423807,
+        "newRoles": []
+    },
+    {
+        "min": 1430128,
+        "newRoles": []
+    },
+    {
+        "min": 1436463,
+        "newRoles": []
+    },
+    {
+        "min": 1442812,
+        "newRoles": []
+    },
+    {
+        "min": 1449175,
+        "newRoles": []
+    },
+    {
+        "min": 1455552,
+        "newRoles": []
+    },
+    {
+        "min": 1461943,
+        "newRoles": []
+    },
+    {
+        "min": 1468348,
+        "newRoles": []
+    },
+    {
+        "min": 1474767,
+        "newRoles": []
+    },
+    {
+        "min": 1481200,
+        "newRoles": []
+    },
+    {
+        "min": 1487647,
+        "newRoles": []
+    },
+    {
+        "min": 1494108,
+        "newRoles": []
+    },
+    {
+        "min": 1500583,
+        "newRoles": []
+    },
+    {
+        "min": 1507072,
+        "newRoles": []
+    },
+    {
+        "min": 1513575,
+        "newRoles": []
+    },
+    {
+        "min": 1520092,
+        "newRoles": []
+    },
+    {
+        "min": 1526623,
+        "newRoles": []
+    },
+    {
+        "min": 1533168,
+        "newRoles": []
+    },
+    {
+        "min": 1539727,
+        "newRoles": []
+    },
+    {
+        "min": 1546300,
+        "newRoles": []
+    },
+    {
+        "min": 1552887,
+        "newRoles": []
+    },
+    {
+        "min": 1559488,
+        "newRoles": []
+    },
+    {
+        "min": 1566103,
+        "newRoles": []
+    },
+    {
+        "min": 1572732,
+        "newRoles": []
+    },
+    {
+        "min": 1579375,
+        "newRoles": []
+    },
+    {
+        "min": 1586032,
+        "newRoles": []
+    },
+    {
+        "min": 1592703,
+        "newRoles": []
+    },
+    {
+        "min": 1599388,
+        "newRoles": []
+    },
+    {
+        "min": 1606087,
+        "newRoles": []
+    },
+    {
+        "min": 1612800,
+        "newRoles": []
+    },
+    {
+        "min": 1619527,
+        "newRoles": []
+    },
+    {
+        "min": 1626268,
+        "newRoles": []
+    },
+    {
+        "min": 1633023,
+        "newRoles": []
+    },
+    {
+        "min": 1639792,
+        "newRoles": []
+    },
+    {
+        "min": 1646575,
+        "newRoles": []
+    },
+    {
+        "min": 1653372,
+        "newRoles": []
+    },
+    {
+        "min": 1660183,
+        "newRoles": []
+    },
+    {
+        "min": 1667008,
+        "newRoles": []
+    },
+    {
+        "min": 1673847,
+        "newRoles": []
+    },
+    {
+        "min": 1680700,
+        "newRoles": []
+    },
+    {
+        "min": 1687567,
+        "newRoles": []
+    },
+    {
+        "min": 1694448,
+        "newRoles": []
+    },
+    {
+        "min": 1701343,
+        "newRoles": []
+    },
+    {
+        "min": 1708252,
+        "newRoles": []
+    },
+    {
+        "min": 1715175,
+        "newRoles": []
+    },
+    {
+        "min": 1722112,
+        "newRoles": []
+    },
+    {
+        "min": 1729063,
+        "newRoles": []
+    },
+    {
+        "min": 1736028,
+        "newRoles": []
+    },
+    {
+        "min": 1743007,
+        "newRoles": []
+    }
+]

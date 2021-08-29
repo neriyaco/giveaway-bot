@@ -1,0 +1,12 @@
+{
+    "token": "ODgxNDM3NTY5OTQ1MDYzNDM1.YSs0tA.vh0iF-s63F7j2f1-CMNkyVwPCCk",
+    "prefix": "$",
+    "permissions": 142336,
+    "authorizationUrl": "https://discord.com/api/oauth2/authorize?client_id=881437569945063435&permissions=0&scope=bot",
+    "giveawayManagerRoles": [
+        "אחראי הגרלות"
+    ],
+    "mongoURL": "mongodb+srv://{username}:{password}@cluster0.7yfxs.mongodb.net/giveaway-bot?retryWrites=true&w=majority",
+    "commandGainExp": true,
+    "serverBoosterRole": "Server Booster"
+}
